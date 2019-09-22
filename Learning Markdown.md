@@ -15,3 +15,4 @@ To summarize, this is a four-part process:
 3. Use the Markdown application to convert the Markdown file to an HTML document.
 4. View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.
 
+![](https://miro.medium.com/max/1400/0*lzRmzAy5OICef7rK.png)
