@@ -4,7 +4,7 @@
  2- the language 
  3- how it is applied
 
-first you will learn what is script  
+*first you will learn what is script  
 -A script is a series of instructions that the computer can follow in order to achieve a goal.
  
 -Each time the script runs, it might only use a subset of all the instructions
