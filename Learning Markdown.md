@@ -1,5 +1,7 @@
 # Learning Markdown
 
+*Welcome to growth middset Pages
+My name is Doa'a 
 **first the Markdown is a way to write content for the web. It’s written in what people like to call “plaintext”,and
 Markdown is a plain text formatting syntax designed so that it can optionally be converted to HTML.**
 
