@@ -5,10 +5,12 @@ on their desktop (in fact you can have as many open as you like)
 
 
 ***So what are they exactly?***
+
 A command line, or terminal, is a text based interface to the system. 
 You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
 ***Opening a Terminal***
+
 Opening a terminal is fairly easy. I can't tell you exactly how to do it as every system is different
 but here are a few places to start looking.
 
