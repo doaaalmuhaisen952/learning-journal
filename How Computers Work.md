@@ -13,6 +13,12 @@ First, you provide input when you turn on the computer. Then the system software
 up certain programs and to turn on some hardware devices so that they are ready for
 more input from you. This whole process is called booting up.
  
+ **The 4 things that is commn in all computer is**
+ 
+1.input 
+2.storge 
+3.processing 
+4.output
  
 ![](http://media.factmyth.com/2016/05/how-do-computers-work.jpg)
 
