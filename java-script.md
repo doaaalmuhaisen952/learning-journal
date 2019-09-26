@@ -22,3 +22,6 @@ Expressions rely on operators to calculate a value
  TO ceate a function you give it name and write the statements needed  " function declaration" 
 
 having declared the function you can then execute all of the statements between its curly " calling the function "
+
+![](http://www.cagrimmett.com/img/html-css-js.png)
+![](https://jaxenter.com/wp-content/uploads/2019/07/shutterstock_720388555.jpg)
